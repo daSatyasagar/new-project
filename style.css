@@ -50,6 +50,7 @@
  }
  .bottom-container{
    background-color: #53B8BB;
+  padding-bottom:30px;
  }
  .btn {
    position: absolute;
